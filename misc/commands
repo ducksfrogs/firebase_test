@@ -1,0 +1,7 @@
+https://firebase.google.com/docs/hosting/quickstart?hl=ja
+
+firebase init hosting
+
+firebase deploy --only hosting
+
+firebase emulators:start
